@@ -40,4 +40,13 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
 	    > git push origin [branch_you_created]  
         
-    6) Open pull request in github with dedicated comment.
+    6) Open pull request in github with dedicated comment.  
+    
+    ---
+- Contributors
+  
+<a href="https://github.com/Viddesh1/RL/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Viddesh1/RL" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
