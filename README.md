@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69793689/234189847-c582581a-2947-4b27-99e8-20b4a51221ed.gif" alt="episode_4">
+</p>
+
 # <div align="center"> :ocean: :snowflake: :snowman: :hole: :dart:  RL-Frozen-Lake :dart: :hole: :snowman: :snowflake: :ocean: </div>
 
 This repository contains a reinforcement learning agent designed to solve the Frozen Lake problem. The agent uses Q-learning algorithm to learn the optimal policy for navigating a grid of frozen lake tiles, while avoiding holes and reaching the goal. The implementation is in Python and uses the OpenAI Gym environment. To run the code, you will need to install the following dependencies of python.
