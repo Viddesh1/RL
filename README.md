@@ -14,8 +14,9 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 | Library   |      Version      |  Description |
 |----------|:-------------:|:------:|
 | Python 🐍 | 3.11.2 | For development of RL mini project (.ipynb) |
-| Numpy :runner:| 1.23.5 | For fast Numeric / Linear Algebra computation |
-| Gym :weight_lifting:| 0.24.0 | For using open AI gym environment of Frozen_Lake_v1 |
+| Numpy :runner: | 1.23.5 | For fast numeric / linear algebra computation |
+| Gym :weight_lifting: | 0.24.0 | For using open AI gym environment of Frozen_Lake_v1 |
+| Pygame :video_game: | 2.3.0 | For rendering open AI gym environment of Frozen_Lake_v1 |
 
 </div>
 
