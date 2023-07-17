@@ -20,6 +20,15 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
 </div>
 
+### File Structure layout
+
+    RL                              # Project Directory
+    ├── frozenLake_qTable.pkl       # Trained Q-learning Model
+    ├── Mini_Project.ipynb          # Python Code File
+    ├── Q-Formula.png               # Formula of Q-Learning
+    ├── README.md                   # Markdown file of the project
+    └── requirements.txt            # Dependencies of the project
+  
 ---
 - Want to contribute ?
 
