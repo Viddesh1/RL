@@ -57,7 +57,13 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
     6) Open pull request in github with dedicated comment.  
     
     ---
-- Contributors
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Viddesh1/RL&type=Date)](https://star-history.com/#Viddesh1/RL&Date)
+
+
+---
+### Contributors
   
 <a href="https://github.com/Viddesh1/RL/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Viddesh1/RL" />
